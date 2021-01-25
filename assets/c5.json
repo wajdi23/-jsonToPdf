@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "Mahdi Chtioui",
+    "label": "iOS Developer at Vynd",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "https://www.behance.net/mahdi_chtioui",
+    "summary": "A developer specialized in Mobile and Web Development. Passionate by innovations, new technologies and design, capable of designing and developing professional and creative interfaces for Mobile and Web applications, and well-rounded in UI/UX design.",
+    "location": {
+      "countryCode": "US",
+      "address": "El Mourouj, Ben Arous Governorate, Tunisia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mahdichtioui",
+        "url": "https://www.linkedin.com/in/mahdichtioui/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vynd",
+      "endDate": "",
+      "highlights": [],
+      "position": "Mobile Developer",
+      "startDate": "2019-10-31",
+      "summary": "- Develop mobile applications using Flutter\n- Develop features for the Android application using Kotlin\n- Develop features for the iOS application using Swift\n- Integrate the CI pipeline using Azure DevOps Pipelines for Android\n- Working with Scrum using the Azure DevOps Boards\n- Writing Documentation",
+      "website": "https://www.linkedin.com/company/vynd/"
+    },
+    {
+      "company": "Vynd",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "position": "iOS Developer",
+      "startDate": "2019-06-30",
+      "summary": "- Working at Vynd Solutions as an iOS develper intern on the current iOS application https://apps.apple.com/us/app/vynd/id1150019295\n- Responsible for introducing and presenting the ReactiveX technology to the developer team in differents platforms (mainly Swift, Java, JS), by making a presentation on the subject and providing differents use cases of how to implement Rx and the advantages of using such a powerful technology for making apps reactive to change.\n- I wrote an article on Rx (Link to the article below), and started working with RxSwift on the iOS App.",
+      "website": "https://www.linkedin.com/company/vynd/"
+    },
+    {
+      "company": "Freelancer",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "position": "Web & Mobile Developer",
+      "startDate": "2016-12-31",
+      "summary": "Working as a designer and developer for freelance projects web and mobile apps (the whole process of software developement)",
+      "website": "https://www.linkedin.com/company/freelancer-it-services/"
+    },
+    {
+      "company": "Tamkeen For Development",
+      "endDate": "2018-06-30",
+      "highlights": [],
+      "position": "Web Developer",
+      "startDate": "2018-04-30",
+      "summary": "Design and develop a website for the organisation, also a website for a bootcamp and a dashboard using php as back-end technology.",
+      "website": ""
+    },
+    {
+      "company": "Comelit R&D Tunisie",
+      "endDate": "2017-06-30",
+      "highlights": [],
+      "position": "Android Developer and Designer (GUI)",
+      "startDate": "2017-02-28",
+      "summary": "Develop and design an Android application that controls and configure the alarm system and get a live streaming from the differents surveillance cameras.",
+      "website": "https://www.linkedin.com/company/comelit-r-d-tunisie/"
+    },
+    {
+      "company": "Solution Groupe",
+      "endDate": "2016-02-28",
+      "highlights": [],
+      "position": "Web Developer",
+      "startDate": "2016-01-31",
+      "summary": "Develop a dynamic website to the entreprise using HTML 5, CSS3 and javascript with jQuery for Front-End and PHP for Back-end with SQL.",
+      "website": ""
+    },
+    {
+      "company": "Tunisie Télécom",
+      "endDate": "2015-02-28",
+      "highlights": [],
+      "position": "Internship",
+      "startDate": "2015-01-31",
+      "website": "https://www.linkedin.com/company/tunisie-t-l-com/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Institut Supérieur des Etudes Technologiques de Rades",
+      "area": "Mobile Application Development",
+      "studyType": "Master's degree ",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Institut Supérieur des Etudes Technologiques de Rades",
+      "area": "Information Technology",
+      "studyType": "License's Degree",
+      "startDate": "2014-12-31",
+      "endDate": "2017-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée El Mourouj 1",
+      "area": "Experimental Science",
+      "studyType": "Baccalaureate's degree",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Implementing VIPER Architecture Pattern for iOS",
+      "publisher": "Flawless iOS",
+      "releaseDate": "2019-09-02",
+      "website": "https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2",
+      "summary": "Article in which i introduced VIPER architecture’s logic and explained how we can implement it in developing iOS applications."
+    },
+    {
+      "name": "ReactiveX: Reactive Programming Principles",
+      "publisher": "Medium",
+      "releaseDate": "2019-08-21",
+      "website": "https://medium.com/@mahdichtioui/reactivex-reactive-programming-principles-dbb1bafa8384",
+      "summary": "Introducing Reactive Programming and Reactive eXtension (Rx) and explaing its core concepts."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vynd",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Back-End Develper",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RxSwift",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flutter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Swift (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-End Developer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firebase",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RxJava",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Github",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reactive Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface Design",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
